@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "ArmorStatusHUD",
+    "description": "This tells you the durability of your armour and such.",
+    "recommendation": "starred",
+    "selected": false
+  }
+}

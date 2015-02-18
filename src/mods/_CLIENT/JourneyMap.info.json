@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "JourneyMap",
+    "description": "This is a advanced map that shows on your HUD.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}

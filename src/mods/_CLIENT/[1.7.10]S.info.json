@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "StatusEffectHUD",
+    "description": "This is a HUD that tells you the effects you have outside your inventory.",
+    "recommendation": "starred",
+    "selected": false
+  }
+}

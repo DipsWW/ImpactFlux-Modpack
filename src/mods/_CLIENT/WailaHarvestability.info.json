@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "WailaHarvestability",
+    "description": "A WAILA add-on that shows if you can harvest certain blocks with the tool in hand.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}

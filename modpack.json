@@ -1,0 +1,14 @@
+{
+  "name": "Impactflux",
+  "title": "Impactflux 2.0.0",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "config/example.cfg",
+      "options.txt"
+    ]
+  }
+}

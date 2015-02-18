@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "TiCTooltips",
+    "description": "This add-on adds detailed tooltips to tinkers tools.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}

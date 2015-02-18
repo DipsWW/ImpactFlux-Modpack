@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "WAILAPlugins",
+    "description": "A WAILA add-on that tells you good info on blocks with WAILA.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}

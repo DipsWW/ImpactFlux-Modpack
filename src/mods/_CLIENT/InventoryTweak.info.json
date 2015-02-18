@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "InventoryTweaks",
+    "description": "This allows you to sort chests with the click of a button.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}

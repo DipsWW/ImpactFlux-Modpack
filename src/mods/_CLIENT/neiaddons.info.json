@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "NEIAddons",
+    "description": "This is a add-on for NEI that allows for more recipes to be viewed.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}
